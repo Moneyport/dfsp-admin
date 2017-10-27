@@ -1,0 +1,24 @@
+:root {
+    --ut-front-react-standardMainLogoWidth: 160px;
+    --ut-front-react-standardMainLogoHeight: 58px;
+    --ut-front-react-standardHeaderLogoContainerMargin: 0;
+    --ut-front-react-standardTabMenuColor: #AC2641;
+    --ut-front-react-standardSearchBoxColor: #AC2641;
+    --ut-front-react-standardDatePickerBackgroundColor: #AC2641;
+    --ut-front-react-standardDropdownIconColor: #AC2641;
+    --ut-front-react-standardDropdownSelectedColor: #AC2641;
+    --ut-front-react-standardToolboxLinkColor: #AC2641;
+    --ut-front-react-standardDataGridTableColor: #AC2641;
+}
+
+.headerLogo {
+    background: inline('ui/administration/assets/images/logo.jpg') no-repeat center center !important;
+}
+
+.tabMenuItemContent {
+    padding: 14px 29px 12px 10px !important;
+}
+
+.loginPageFooter {
+    background: inline('ui/administration/assets/images/logo.jpg') no-repeat center center !important;
+}
