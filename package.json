@@ -1,5 +1,5 @@
 {
-  "name": "@leveloneproject/dfsp-admin",
+  "name": "@mojaloop/dfsp-admin",
   "version": "0.17.43",
   "description": "DFSP Admin",
   "main": "index.js",
@@ -138,7 +138,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LevelOneProject/dfsp-admin.git"
+    "url": "git@github.com:mojaloop/dfsp-admin.git"
   },
   "engines": {
     "node": ">=6.3.0",
