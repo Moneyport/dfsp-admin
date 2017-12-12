@@ -1,3 +1,14 @@
+<a name="0.17.44"></a>
+## [0.17.44](https://github.com/softwaregroup-bg/@mojaloop/dfsp-admin/compare/v0.17.43...v0.17.44) (2017-12-07)
+
+
+### Bug Fixes
+
+* l1p -> mojaloop ([46da91b](https://github.com/softwaregroup-bg/@mojaloop/dfsp-admin/commit/46da91b))
+* move to mojaloop ([e2d2df1](https://github.com/softwaregroup-bg/@mojaloop/dfsp-admin/commit/e2d2df1))
+
+
+
 <a name="0.17.43"></a>
 ## [0.17.43](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-admin/compare/v0.17.42...v0.17.43) (2017-10-12)
 
