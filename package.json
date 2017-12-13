@@ -1,6 +1,6 @@
 {
   "name": "@mojaloop/dfsp-admin",
-  "version": "0.17.43",
+  "version": "0.17.45",
   "description": "DFSP Admin",
   "main": "index.js",
   "scripts": {
@@ -56,15 +56,15 @@
     "ut-run": "8.2.3"
   },
   "devDependencies": {
-    "@leveloneproject/dfsp-account": "0.x",
-    "@leveloneproject/dfsp-api": ">=1.0.0-quotes.61 <1.0.0",
-    "@leveloneproject/dfsp-directory": "0.x",
-    "@leveloneproject/dfsp-identity": "0.x",
-    "@leveloneproject/dfsp-ledger": ">=2.0.0-quotes.21 <2.0.0",
-    "@leveloneproject/dfsp-mock": ">=1.0.0-quotes.18 <1.0.0",
-    "@leveloneproject/dfsp-rule": "0.x",
-    "@leveloneproject/dfsp-subscription": "0.x",
-    "@leveloneproject/dfsp-transfer": "0.x",
+    "@mojaloop/dfsp-account": "0.x",
+    "@mojaloop/dfsp-api": "1.x",
+    "@mojaloop/dfsp-directory": "0.x",
+    "@mojaloop/dfsp-identity": "0.x",
+    "@mojaloop/dfsp-ledger": "2.x",
+    "@mojaloop/dfsp-mock": "1.x",
+    "@mojaloop/dfsp-rule": "0.x",
+    "@mojaloop/dfsp-subscription": "0.x",
+    "@mojaloop/dfsp-transfer": "0.x",
     "babel-6-istanbul-instrumenter-loader": "^1.0.0",
     "babel-core": "6.25.0",
     "babel-helpers": "6.24.1",
@@ -143,9 +143,6 @@
   "engines": {
     "node": ">=6.3.0",
     "npm": ">=3.10.8"
-  },
-  "publishConfig": {
-    "registry": "https://modusbox.jfrog.io/modusbox/api/npm/level1-npm-release"
   },
   "browser": {
     "request": "browser-request"
