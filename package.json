@@ -73,7 +73,7 @@
     "babel-polyfill": "6.26.0",
     "babel-register": "6.24.1",
     "blue-tape": "1.0.0",
-    "brace-expansion": "1.1.5",
+    "brace-expansion": "1.1.8",
     "enzyme": "^2.8.0",
     "faucet": "0.0.1",
     "font-awesome": "4.6.3",
